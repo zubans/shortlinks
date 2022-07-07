@@ -1,10 +1,8 @@
 ![Ruby](https://github.com/ryanwi/rails7-on-docker/workflows/Ruby/badge.svg)
 
-# Rails 7 on Docker demo application
+# Rails 7 on Docker ]
 
 This app demonstrates Rails 7 with PostgreSQL, import maps, turbo, stimulus and hotwire, all running in Docker.
-
-**NOTE:** [There is also an example Rails 6 application working in Docker with Webpacker](https://github.com/ryanwi/rails-on-docker)
 
 ## Features
 
@@ -12,7 +10,6 @@ This app demonstrates Rails 7 with PostgreSQL, import maps, turbo, stimulus and 
 * Ruby 3
 * Dockerfile and Docker Compose configuration
 * PostgreSQL database
-* Redis
 * GitHub Actions for 
   * tests
   * Rubocop for linting

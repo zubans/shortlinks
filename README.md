@@ -1,4 +1,4 @@
-![Ruby](https://github.com/zubans/shortlinks/workflows/Ruby/badge.svg)
+[![Ruby on Rails CI](https://github.com/zubans/shortlinks/actions/workflows/rubyonrails.yml/badge.svg)](https://github.com/zubans/shortlinks/actions/workflows/rubyonrails.yml)
 
 # Rails 7 on Docker
 

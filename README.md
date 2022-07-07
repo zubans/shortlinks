@@ -1,6 +1,6 @@
 ![Ruby](https://github.com/ryanwi/rails7-on-docker/workflows/Ruby/badge.svg)
 
-# Rails 7 on Docker ]
+# Rails 7 on Docker
 
 This app demonstrates Rails 7 with PostgreSQL, import maps, turbo, stimulus and hotwire, all running in Docker.
 
@@ -13,7 +13,6 @@ This app demonstrates Rails 7 with PostgreSQL, import maps, turbo, stimulus and 
 * GitHub Actions for 
   * tests
   * Rubocop for linting
-  * Security checks with [Brakeman](https://github.com/presidentbeef/brakeman) and [bundler-audit](https://github.com/rubysec/bundler-audit)
 * Dependabot for automated updates
 
 ## Initial setup

@@ -55,23 +55,3 @@ docker compose up --build
 ```
 docker build -f production.Dockerfile .
 ```
-
-## Credits/References
-
-### Rails with Docker
-* [Quickstart: Compose and Rails](https://docs.docker.com/compose/rails/)
-* [Docker for Rails Developers
-Build, Ship, and Run Your Applications Everywhere](https://pragprog.com/titles/ridocker/docker-for-rails-developers/)
-* [Ruby on Whales:
-Dockerizing Ruby and Rails development](https://evilmartians.com/chronicles/ruby-on-whales-docker-for-ruby-rails-development)
-
-### Rails 7 with importmaps 
-
-* [Alpha preview: Modern JavaScript in Rails 7 without Webpack](https://www.youtube.com/watch?v=PtxZvFnL2i0)
-
-### Rails 7 with hotwire
-
-* [Stimulus 3 + Turbo 7 = Hotwire 1.0](https://world.hey.com/dhh/stimulus-3-turbo-7-hotwire-1-0-9d507133)
-* [Turbo 7](https://world.hey.com/hotwired/turbo-7-0dd7a27f)
-* [Rails 7 will have three great answers to JavaScript in 2021+](https://world.hey.com/dhh/rails-7-will-have-three-great-answers-to-javascript-in-2021-8d68191b)
-* [Hotwire Turbo Replacing Rails UJS](https://www.driftingruby.com/episodes/hotwire-turbo-replacing-rails-ujs)
